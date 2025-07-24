@@ -64,16 +64,17 @@
   <div class="modal-content" id="import-export-modal-content">
     <span class="close-btn" id="close-import-export">&times;</span>
     <h2>匯入 / 匯出JSON</h2>
+
+    <!-- 匯入 JSON -->
+      <!-- <input type="file" id="import-json-file" class="custom-btn" accept=".json" /> -->
+      <input id="import-json-file" class="custom-btn" type="file">
+      <label type="button" for="import-json-file" class="uploadStyle custom-btn" accept=".json">
+          匯入
+      </label>
     
     <!-- 匯出 JSON -->
     <button id="export-json-btn" class="custom-btn">匯出</button>
-
-    <!-- 匯入 JSON -->
-    <!-- <input type="file" id="import-json-file" class="custom-btn" accept=".json" /> -->
-    <input id="import-json-file" class="custom-btn" type="file">
-    <label type="button" for="import-json-file" class="uploadStyle custom-btn" accept=".json">
-        匯入
-    </label>
+    
   </div>
 </div>
 
