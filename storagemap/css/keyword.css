@@ -1,0 +1,305 @@
+/* Reset 基礎樣式 */
+/* .index-icon{
+  width: 90%;
+  height: auto;
+} */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f5f5f5;
+}
+
+/* 主標題 */
+h1 {
+  font-size: 45px;
+  font-family: "Noto Serif HK", serif;
+  text-align: center;
+}
+
+/* 搜尋欄位 */
+.search-bar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* gap: 0.5rem; */
+  padding: 0 1rem;
+  flex-wrap: wrap;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    /* width: 40vw;
+    height: 40px; */
+    box-shadow: 0 0 6px rgba(0,0,0,0.1);
+}
+
+#keyword-input {
+  padding-left: 15px;
+  margin: 0 5px;
+  font-size: 15px;
+  /* width: 75%;
+  max-width: 80vw;
+  height: 30px; */
+  border-radius: 20px;
+  border: none;
+  background-color:#f5f5f5;
+  /* box-shadow: 0 0 6px rgba(0,0,0,0.1); */
+  
+}
+
+.search-btn-container {
+  /* height: 40px;
+  width: 25%; */
+  margin-right: -1px;
+  border-radius: 0 20px 20px 0;
+  cursor: pointer;
+  background-color:#f5f5f5;
+  color: #333;
+  border: none;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#search-btn{
+    border: none;
+    background-color: #f5f5f5;
+    color: #333;
+    cursor: pointer;
+    font-size: 16px;
+    padding-bottom: 3px;
+}
+
+.search-btn-container:hover {
+    background-color: #e9e9e9;
+}
+
+.search-btn-container:hover > #search-btn{
+    background-color: #e9e9e9;
+}
+
+/* 結果區域 */
+#results-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.results-area-original-text {
+    color: #7f7f7f;
+}
+
+/* 卡片樣式 */
+.card {
+  background-color:#f7f7f7;
+  box-shadow: 0 0 6px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem 1rem;
+  width: 90%;
+  max-width: 500px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+}
+
+.card .name {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+/* .card .zone {
+  color: #666;
+  margin-bottom: 0.5rem;
+} */
+
+.card .zone{
+    background-color: #f2f2f2;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.119);
+    color: #2a3a92;
+    font-weight: 700;
+    font-size: 12pt;
+    padding: 8px;
+    border-radius: 6px;
+    width: fit-content;
+    height: 17px;
+    text-align: center;
+    margin: 0;
+}
+
+.card .description {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  white-space: pre-wrap;
+}
+
+.nz-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+/* 側邊選單 */
+.menu-toggle {
+  font-size: 28px;
+  cursor: pointer;
+  position: fixed;
+  left: 20px;
+  top: 20px;
+  z-index: 1000;
+}
+
+.side-menu {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1001;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 50px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.side-menu a {
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    color: #333;
+    width: fit-content;
+}
+
+.side-menu a:hover{
+    color: #0077b6;
+    font-weight: 500;
+}
+
+.close-btn, .close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 5px 10px 3px 10px;
+    border-radius: 6px;
+}
+
+#close-menu {
+    background-color: none;
+    color: #333;
+    border: none;
+    padding: 5px 10px 3px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+.close-btn:hover, #close-menu:hover{
+    background-color: #F3F3F3;
+}
+
+/* 響應式設計 */
+@media(min-width: 402px) {
+.search-bar{
+    width: 60vw;
+    height: 35px;
+}
+#keyword-input{
+  width: 40vw;
+  max-width: 80vw;
+  height: 25px;
+}
+
+.search-btn-container{
+  height: 35px;
+  width: 15vw;
+}
+
+}
+
+@media(min-width: 550px) {
+.search-bar{
+    width: 40vw;
+    height: 40px;
+}
+#keyword-input{
+  width: 75%;
+  max-width: 80vw;
+  height: 30px;
+}
+
+.search-btn-container{
+  height: 40px;
+  width: 25%;
+}
+
+}
+
+@media(min-width: 768px) {
+.search-bar{
+    width: 40vw;
+    height: 40px;
+}
+#keyword-input{
+  width: 75%;
+  max-width: 80vw;
+  height: 30px;
+}
+
+.search-btn-container{
+  height: 40px;
+  width: 25%; 
+}
+
+}
+
+@media(min-width: 1024px) {
+.search-bar{
+    width: 40vw;
+    height: 40px;
+}
+#keyword-input{
+  width: 80%;
+  max-width: 80vw;
+  height: 30px;    
+}
+
+.search-btn-container{
+  height: 40px;
+  width: 20%;      
+}
+
+}
+
+/* 修正手機橫看卡片 overflow 問題 */
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+main {
+  min-height: 100vh;
+  overflow-y: auto;
+  padding-bottom: 2rem;
+}
+
+.highlight{
+    color: #0088cc;
+}

@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "粉彩",
+    "zone": "C1",
+    "description": "1盒"
+  },
+  {
+    "name": "25色水彩",
+    "zone": "C1",
+    "description": "1盒"
+  },
+  {
+    "name": "12色水彩",
+    "zone": "C1",
+    "description": "1盒"
+  },
+  {
+    "name": "壓克力顏料",
+    "zone": "C1",
+    "description": "一些"
+  },
+  {
+    "name": "調色盤",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "軟橡皮",
+    "zone": "C1",
+    "description": "1顆"
+  },
+  {
+    "name": "牙籤",
+    "zone": "C1",
+    "description": "4包"
+  },
+  {
+    "name": "漆包線",
+    "zone": "C1",
+    "description": "2包"
+  },
+  {
+    "name": "紅外線感測器",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "3號電池盒（3節）",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "4號有蓋電池盒（3節）",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "伺服馬達",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "熱溶膠條",
+    "zone": "C1",
+    "description": "4條"
+  },
+  {
+    "name": "熱熔槍",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "環氧樹脂畫作",
+    "zone": "C1",
+    "description": "1幅"
+  },
+  {
+    "name": "Gavel海報",
+    "zone": "C1",
+    "description": "3張"
+  },
+  {
+    "name": "高中網路安全海報",
+    "zone": "C1",
+    "description": "1張"
+  },
+  {
+    "name": "夜燈",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "童軍繩",
+    "zone": "C1",
+    "description": "1條"
+  },
+  {
+    "name": "便條紙盒",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "扯鈴棍",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "包巾",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "音樂盒",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "中音直笛",
+    "zone": "C1",
+    "description": "1個"
+  },
+  {
+    "name": "五月天演唱會雨衣",
+    "zone": "C2-1",
+    "description": "4個"
+  },
+  {
+    "name": "劉若英演唱會口罩",
+    "zone": "C2-1",
+    "description": "1包"
+  },
+  {
+    "name": "相信音樂夾鏈袋",
+    "zone": "C2-1",
+    "description": "4個"
+  },
+  {
+    "name": "五月天透明後背包",
+    "zone": "C2-1",
+    "description": "1個"
+  },
+  {
+    "name": "鐘老師的吸管龍",
+    "zone": "C2-2",
+    "description": "數個"
+  },
+  {
+    "name": "笑笑羊的狗的造型杯",
+    "zone": "C2-2",
+    "description": "1個"
+  },
+  {
+    "name": "國中議長獎盃",
+    "zone": "C2-2",
+    "description": "1個"
+  },
+  {
+    "name": "NIKE護腕",
+    "zone": "C2-2",
+    "description": "1副"
+  },
+  {
+    "name": "鐘憶牌子",
+    "zone": "C2-2",
+    "description": "1個"
+  },
+  {
+    "name": "扭蛋殼",
+    "zone": "C2-2",
+    "description": "4個（小葵、阿呆、正男、妮妮）"
+  },
+  {
+    "name": "67咖啡立牌",
+    "zone": "C3",
+    "description": "2個"
+  },
+  {
+    "name": "木板",
+    "zone": "C3",
+    "description": "1塊"
+  },
+  {
+    "name": "束帶",
+    "zone": "C3",
+    "description": "4條"
+  },
+  {
+    "name": "YES!Chef桌遊盒子",
+    "zone": "C3",
+    "description": "一盒（未組裝）"
+  },
+  {
+    "name": "噴漆",
+    "zone": "C3",
+    "description": "5罐（白*1、金*1、藍綠*1、綠*2）"
+  },
+  {
+    "name": "白磁鐵相框",
+    "zone": "C3",
+    "description": "1個"
+  },
+  {
+    "name": "洞洞板的配件",
+    "zone": "C3",
+    "description": "一些"
+  },
+  {
+    "name": "卡通夾子",
+    "zone": "C3",
+    "description": "1袋"
+  },
+  {
+    "name": "安親班星星蠟燭",
+    "zone": "C3",
+    "description": "2個"
+  },
+  {
+    "name": "英文字母磁鐵",
+    "zone": "C3",
+    "description": "2盒"
+  },
+  {
+    "name": "LED燈串加遙控器",
+    "zone": "C3",
+    "description": "1組"
+  },
+  {
+    "name": "嚕嚕米鐵盒",
+    "zone": "C3",
+    "description": "1個"
+  },
+  {
+    "name": "哈利波特小說",
+    "zone": "C4",
+    "description": "7本（消失的密室、神秘的魔法石、阿茲卡班的逃犯、鳳凰會的命令（上+下）、死神的聖物（上+下）)"
+  },
+  {
+    "name": "月亮忘記了",
+    "zone": "C4",
+    "description": "1本（幾米）"
+  },
+  {
+    "name": "我的心中每天開出一朵花",
+    "zone": "C4",
+    "description": "1本（幾米）"
+  },
+  {
+    "name": "人生啊，歡迎迷路",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "麵包師之旅",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "聽風的歌",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "庫德的勇氣",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "世界末日與冷酷異境",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "不要講話",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "青春第二課",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "砲來了，金門快跑！",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "霍金大見解",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "樹下長椅",
+    "zone": "C4",
+    "description": "1本"
+  },
+  {
+    "name": "空白筆記本",
+    "zone": "C5",
+    "description": "6本"
+  },
+  {
+    "name": "元智筆記本",
+    "zone": "C5",
+    "description": "1本"
+  },
+  {
+    "name": "高中畫冊",
+    "zone": "C5",
+    "description": "1本"
+  },
+  {
+    "name": "高中公民罰寫本",
+    "zone": "C5",
+    "description": "2本"
+  },
+  {
+    "name": "高中歷史罰寫本",
+    "zone": "C5",
+    "description": "2本"
+  },
+  {
+    "name": "高中週記",
+    "zone": "C5",
+    "description": "6本"
+  },
+  {
+    "name": "育達空白筆記本",
+    "zone": "C5",
+    "description": "很多本（前面有幾本寫了封面標題，但其實空白的）"
+  },
+  {
+    "name": "67小畢冊",
+    "zone": "C5",
+    "description": "1本"
+  },
+  {
+    "name": "灰色後背包",
+    "zone": "C6",
+    "description": "1個"
+  },
+  {
+    "name": "高中側背包",
+    "zone": "C6",
+    "description": "1個"
+  },
+  {
+    "name": "藍條紋單肩包",
+    "zone": "C5",
+    "description": "1個"
+  },
+  {
+    "name": "相機包",
+    "zone": "C6",
+    "description": "1個"
+  },
+  {
+    "name": "帆布袋",
+    "zone": "C6",
+    "description": "2個"
+  },
+  {
+    "name": "攝影棚器材",
+    "zone": "D1",
+    "description": "一些"
+  },
+  {
+    "name": "A4海報框",
+    "zone": "D1",
+    "description": "5個"
+  },
+  {
+    "name": "防水布",
+    "zone": "D1",
+    "description": "1塊"
+  },
+  {
+    "name": "噴漆",
+    "zone": "D1",
+    "description": "1罐（白）"
+  },
+  {
+    "name": "國小畫筆筆筒",
+    "zone": "D1",
+    "description": "1個"
+  },
+  {
+    "name": "洗筆桶",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "小時候的記帳本",
+    "zone": "D2",
+    "description": "1本"
+  },
+  {
+    "name": "國小名牌套",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "陶瓷獨角仙",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "跆拳道黃帶",
+    "zone": "D2",
+    "description": "1條"
+  },
+  {
+    "name": "紙飛機摺紙書",
+    "zone": "D2",
+    "description": "1本"
+  },
+  {
+    "name": "602畢業紀念光碟",
+    "zone": "D2",
+    "description": "1片"
+  },
+  {
+    "name": "602畢業紀念撲克牌",
+    "zone": "D2",
+    "description": "1副"
+  },
+  {
+    "name": "鋼彈模型零件",
+    "zone": "D2",
+    "description": "一些"
+  },
+  {
+    "name": "高音直笛",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "國中聖誕老公公的回信",
+    "zone": "D2",
+    "description": "1封"
+  },
+  {
+    "name": "STAYREAL明信片",
+    "zone": "D2",
+    "description": "1張"
+  },
+  {
+    "name": "育達學生手冊",
+    "zone": "D2",
+    "description": "1本"
+  },
+  {
+    "name": "證件照",
+    "zone": "D2",
+    "description": "很多袋"
+  },
+  {
+    "name": "高中67名單",
+    "zone": "D2",
+    "description": "1鉛筆盒"
+  },
+  {
+    "name": "高中單字手抄本",
+    "zone": "D2",
+    "description": "3本"
+  },
+  {
+    "name": "67聖誕節紙袋",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "小巨蛋溜冰手套",
+    "zone": "D2",
+    "description": "1副"
+  },
+  {
+    "name": "環氧樹脂杯墊",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "大學宿舍櫃門鎖",
+    "zone": "D2",
+    "description": "1個"
+  },
+  {
+    "name": "彈珠",
+    "zone": "D2",
+    "description": "10顆"
+  },
+  {
+    "name": "清大心諮營的名牌",
+    "zone": "D2",
+    "description": "1個（高一升高二暑假參加清大心諮營）"
+  },
+  {
+    "name": "學習歷程獎狀",
+    "zone": "D3",
+    "description": "1本"
+  },
+  {
+    "name": "文化402紀念冊",
+    "zone": "D3",
+    "description": "1本"
+  },
+  {
+    "name": "國小直笛樂譜",
+    "zone": "D3",
+    "description": "1本"
+  },
+  {
+    "name": "國小畢冊",
+    "zone": "D3",
+    "description": "1本"
+  },
+  {
+    "name": "國中畢冊",
+    "zone": "D3",
+    "description": "1本"
+  },
+  {
+    "name": "高中畢業證書",
+    "zone": "D3",
+    "description": "1份"
+  },
+  {
+    "name": "大學畢業證書",
+    "zone": "D3",
+    "description": "1份"
+  },
+  {
+    "name": "大畢冊草稿",
+    "zone": "D3",
+    "description": "1資料夾"
+  },
+  {
+    "name": "大三作品集",
+    "zone": "D3",
+    "description": "2本"
+  },
+  {
+    "name": "畫冊",
+    "zone": "D3",
+    "description": "2本"
+  },
+  {
+    "name": "國中3x3鬥牛季軍獎盃",
+    "zone": "D3",
+    "description": "1座"
+  },
+  {
+    "name": "馬布偶",
+    "zone": "D3",
+    "description": "1個"
+  },
+  {
+    "name": "木偶",
+    "zone": "D3",
+    "description": "1個"
+  },
+  {
+    "name": "斐陶斐徽章",
+    "zone": "D3",
+    "description": "1個"
+  },
+  {
+    "name": "木箱子",
+    "zone": "D4",
+    "description": "1個"
+  },
+  {
+    "name": "Curry10 鞋盒",
+    "zone": "D4",
+    "description": "1個"
+  },
+  {
+    "name": "告五人螢光棒",
+    "zone": "D4",
+    "description": "1個"
+  },
+  {
+    "name": "每天都想史",
+    "zone": "D4",
+    "description": "1組"
+  },
+  {
+    "name": "五月天螢光棒",
+    "zone": "D4",
+    "description": "1個"
+  },
+  {
+    "name": "高中地科課本",
+    "zone": "D5",
+    "description": "1本"
+  },
+  {
+    "name": "洪揚數學講義",
+    "zone": "D5",
+    "description": "23本"
+  },
+  {
+    "name": "生物學測新導向",
+    "zone": "D5",
+    "description": "1本"
+  },
+  {
+    "name": "國語辭典",
+    "zone": "D5",
+    "description": "2本"
+  },
+  {
+    "name": "英漢字典",
+    "zone": "D5",
+    "description": "1本"
+  },
+  {
+    "name": "國小國語作業本",
+    "zone": "D5",
+    "description": "一疊"
+  },
+  {
+    "name": "高中社會錯題本",
+    "zone": "D5",
+    "description": "1本"
+  },
+  {
+    "name": "數學錯題本",
+    "zone": "D5",
+    "description": "1本"
+  },
+  {
+    "name": "高中國文課本",
+    "zone": "D6",
+    "description": "6本"
+  },
+  {
+    "name": "大滿貫國文總複習",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "高中英文課本（加練習冊、單字本）",
+    "zone": "D6",
+    "description": "6組"
+  },
+  {
+    "name": "4000單",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "7000單",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "英文學測新導向",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "英文克漏字",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "英文中翻英（解答本）",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "逖克遜片語",
+    "zone": "D6",
+    "description": "1本"
+  },
+  {
+    "name": "削鉛筆機",
+    "zone": "N1",
+    "description": "1個"
+  },
+  {
+    "name": "紙膠帶膠臺",
+    "zone": "N1",
+    "description": "1個"
+  },
+  {
+    "name": "無印便條紙",
+    "zone": "N1",
+    "description": "1本"
+  },
+  {
+    "name": "3M捲尺",
+    "zone": "N1",
+    "description": "1個"
+  },
+  {
+    "name": "瞬間結著劑（液態）",
+    "zone": "N1",
+    "description": "1個"
+  },
+  {
+    "name": "空白卡片",
+    "zone": "N1",
+    "description": "1張"
+  },
+  {
+    "name": "折疊鏡子",
+    "zone": "N1",
+    "description": "1面"
+  },
+  {
+    "name": "扣環",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "三合一打洞器",
+    "zone": "N1",
+    "description": "1個"
+  },
+  {
+    "name": "單孔打洞器",
+    "zone": "N1",
+    "description": "1個"
+  },
+  {
+    "name": "迴紋針",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "彩色圖釘*",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "金色圖釘",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "別針",
+    "zone": "N1",
+    "description": "1小袋"
+  },
+  {
+    "name": "IKEA書櫃固定釘",
+    "zone": "N1",
+    "description": "1袋"
+  },
+  {
+    "name": "護貝膠膜（60*95-名片型）",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "圓規",
+    "zone": "N1",
+    "description": "2個"
+  },
+  {
+    "name": "斜口鉗",
+    "zone": "N1",
+    "description": "2個"
+  },
+  {
+    "name": "美工刀刀片",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "筆刀刀片",
+    "zone": "N1",
+    "description": "1盒"
+  },
+  {
+    "name": "小螺絲起子",
+    "zone": "N1",
+    "description": "1把"
+  },
+  {
+    "name": "錐子",
+    "zone": "N1",
+    "description": "1把"
+  },
+  {
+    "name": "牛皮紙面膠帶",
+    "zone": "N1",
+    "description": "1卷（快用完）"
+  },
+  {
+    "name": "泡棉膠",
+    "zone": "N1",
+    "description": "2條"
+  },
+  {
+    "name": "寬雙面膠",
+    "zone": "N1",
+    "description": "2卷"
+  },
+  {
+    "name": "中雙面膠",
+    "zone": "N1",
+    "description": "3卷"
+  },
+  {
+    "name": "細雙面膠",
+    "zone": "N1",
+    "description": "2卷"
+  },
+  {
+    "name": "中紙膠帶",
+    "zone": "N1",
+    "description": "1卷"
+  },
+  {
+    "name": "布膠",
+    "zone": "N1",
+    "description": "1卷"
+  },
+  {
+    "name": "鐵尺（60公分）",
+    "zone": "N2",
+    "description": "1把"
+  },
+  {
+    "name": "塑膠尺（15公分）",
+    "zone": "N2",
+    "description": "1把"
+  },
+  {
+    "name": "國小國中運動會獎牌",
+    "zone": "N2",
+    "description": "4面"
+  },
+  {
+    "name": "A3海報框",
+    "zone": "N2",
+    "description": "2個"
+  },
+  {
+    "name": "各種海報",
+    "zone": "N2",
+    "description": "1袋"
+  },
+  {
+    "name": "畢展戰利品",
+    "zone": "N2",
+    "description": "1盒"
+  },
+  {
+    "name": "色鉛筆",
+    "zone": "N2",
+    "description": "1筆筒"
+  },
+  {
+    "name": "各種筆",
+    "zone": "N2",
+    "description": "1筆筒"
+  },
+  {
+    "name": "5色記號筆",
+    "zone": "N2",
+    "description": "1盒"
+  },
+  {
+    "name": "標籤紙",
+    "zone": "N2",
+    "description": "3組"
+  },
+  {
+    "name": "木頭手機架",
+    "zone": "N2",
+    "description": "1個（大二選修物理老師送的）"
+  },
+  {
+    "name": "扁梳",
+    "zone": "N2",
+    "description": "1把"
+  },
+  {
+    "name": "剪刀",
+    "zone": "N2",
+    "description": "1把"
+  },
+  {
+    "name": "筆刀",
+    "zone": "N2",
+    "description": "1把"
+  },
+  {
+    "name": "紙膠帶",
+    "zone": "N2",
+    "description": "5卷"
+  },
+  {
+    "name": "口紅膠",
+    "zone": "N2",
+    "description": "2條"
+  },
+  {
+    "name": "膠水",
+    "zone": "N2",
+    "description": "1瓶"
+  },
+  {
+    "name": "便條紙",
+    "zone": "N2",
+    "description": "1疊"
+  },
+  {
+    "name": "日本買的印章",
+    "zone": "N2",
+    "description": "2個（小心肝、啤酒）"
+  },
+  {
+    "name": "育達選集（94-103）",
+    "zone": "N2-1",
+    "description": "10本"
+  },
+  {
+    "name": "空白筆記本",
+    "zone": "N2-1",
+    "description": "5本"
+  },
+  {
+    "name": "國小論語輯",
+    "zone": "N2-1",
+    "description": "1本"
+  },
+  {
+    "name": "《YES!Chef》",
+    "zone": "N2-1",
+    "description": "1副（大學大專生研究計畫）"
+  },
+  {
+    "name": "《UNO》",
+    "zone": "N2-1",
+    "description": "1副"
+  },
+  {
+    "name": "《德國蟑螂》",
+    "zone": "N2-1",
+    "description": "1副"
+  },
+  {
+    "name": "《水滸傳》桌遊",
+    "zone": "N2-1",
+    "description": "1副"
+  },
+  {
+    "name": "畢製hachu小卡",
+    "zone": "N2-1",
+    "description": "1盒"
+  },
+  {
+    "name": "筆記本①",
+    "zone": "N2-2",
+    "description": "大一大二草圖"
+  },
+  {
+    "name": "筆記本②",
+    "zone": "N2-2",
+    "description": "大二大三筆記+草圖（設計概論、色彩學、平面設計、設計史）"
+  },
+  {
+    "name": "筆記本③",
+    "zone": "N2-2",
+    "description": "大二物理"
+  },
+  {
+    "name": "大二資訊概論課本",
+    "zone": "N2-2",
+    "description": "1本"
+  },
+  {
+    "name": "大二基礎程式設計課本",
+    "zone": "N2-2",
+    "description": "1本"
+  },
+  {
+    "name": "高中Office軟體工具書",
+    "zone": "N2-2",
+    "description": "1本"
+  },
+  {
+    "name": "大二平面設計期末作業",
+    "zone": "N2-2",
+    "description": "海報、周邊、貼紙、紙袋+大三小畢製貼紙"
+  },
+  {
+    "name": "國小美術作業",
+    "zone": "N2-2",
+    "description": "1大卷"
+  },
+  {
+    "name": "手機袋",
+    "zone": "N2-2",
+    "description": "1個（國中綜合課）"
+  },
+  {
+    "name": "書法用具",
+    "zone": "N2-2",
+    "description": "1盒"
+  },
+  {
+    "name": "拉鍊收納袋",
+    "zone": "N2-2",
+    "description": "1個"
+  },
+  {
+    "name": "大量杯",
+    "zone": "N2-2",
+    "description": "1個"
+  },
+  {
+    "name": "Arduino",
+    "zone": "N2-2",
+    "description": "傳輸線*7條、鋰電池（300mAh3.7V）、鋰電池充電板模組（USB TYPE-C介面，附保護板）、LED燈泡（3 φ 2.2V 紅*17顆、3 φ 3V 白*3顆）、Nano板*3個、觸控開關模組（TTP223）*1個、Uno板（加9V電池充電座）*4個、9V電池*3個、麵包板*5個、聲音感測器*3個、杜邦線10cm母-母、10cm公-公、20cm公-公、10cm公-母、20cm公-母，各一袋）*4袋、電阻*1袋、紅白黃綠LED*1袋、按鈕零件（+溫度感測器*8個）*1袋"
+  },
+  {
+    "name": "藍色毛線",
+    "zone": "N2-2",
+    "description": "1袋（大三人機互動期末作業材料）"
+  },
+  {
+    "name": "卡片與紀念品",
+    "zone": "ND1",
+    "description": "1盒"
+  },
+  {
+    "name": "木板",
+    "zone": "ND1",
+    "description": "1塊"
+  },
+  {
+    "name": "硬卡套",
+    "zone": "ND1",
+    "description": "5個"
+  },
+  {
+    "name": "透明筆袋",
+    "zone": "ND1",
+    "description": "1個"
+  },
+  {
+    "name": "閃電十一人錢包",
+    "zone": "ND1",
+    "description": "1個"
+  },
+  {
+    "name": "米菲兔零錢包",
+    "zone": "ND1",
+    "description": "1個（裝追分成功符、平安符）"
+  },
+  {
+    "name": "姓名貼",
+    "zone": "ND1",
+    "description": "1耳機盒（加3D列印名牌）"
+  },
+  {
+    "name": "生日紀念護唇膏",
+    "zone": "ND1",
+    "description": "1個（2024媽媽去日本買的紀念品）"
+  },
+  {
+    "name": "徽章小卡",
+    "zone": "ND1",
+    "description": "1盒"
+  },
+  {
+    "name": "耳機替換頭",
+    "zone": "ND1",
+    "description": "6顆"
+  },
+  {
+    "name": "音源轉接線",
+    "zone": "ND1",
+    "description": "1個（之前耳罩式耳機的）"
+  },
+  {
+    "name": "充電線",
+    "zone": "ND1",
+    "description": "1條（TYPE-C對TYPE-C）"
+  },
+  {
+    "name": "鍵盤替換按鍵",
+    "zone": "ND1",
+    "description": "1副（crtl + alt）"
+  },
+  {
+    "name": "小圓頭螺絲",
+    "zone": "ND1",
+    "description": "1袋"
+  },
+  {
+    "name": "小平頭螺絲",
+    "zone": "ND1",
+    "description": "1袋"
+  },
+  {
+    "name": "小墊片",
+    "zone": "ND1",
+    "description": "1袋"
+  },
+  {
+    "name": "小螺帽",
+    "zone": "ND1",
+    "description": "1袋"
+  },
+  {
+    "name": "小筆記本",
+    "zone": "ND1",
+    "description": "4本"
+  },
+  {
+    "name": "便條紙",
+    "zone": "ND1",
+    "description": "7疊左右"
+  },
+  {
+    "name": "小卡片",
+    "zone": "ND1",
+    "description": "幾張"
+  },
+  {
+    "name": "好看的迴紋針",
+    "zone": "ND1",
+    "description": "1袋"
+  },
+  {
+    "name": "空白畫本",
+    "zone": "ND2",
+    "description": "2本"
+  },
+  {
+    "name": "空白筆記本",
+    "zone": "ND2",
+    "description": "1本"
+  },
+  {
+    "name": "活頁紙",
+    "zone": "ND2",
+    "description": "1袋"
+  },
+  {
+    "name": "小桌墊",
+    "zone": "ND2",
+    "description": "1個"
+  },
+  {
+    "name": "墊板",
+    "zone": "ND2",
+    "description": "1個"
+  },
+  {
+    "name": "作文紙",
+    "zone": "ND2",
+    "description": "1包"
+  },
+  {
+    "name": "直角鐵尺（長）",
+    "zone": "ND2",
+    "description": "1把"
+  },
+  {
+    "name": "直角鐵尺（短）",
+    "zone": "ND2",
+    "description": "1把"
+  },
+  {
+    "name": "塑膠尺（30公分）",
+    "zone": "ND2",
+    "description": "1把"
+  },
+  {
+    "name": "鐵尺（30公分）",
+    "zone": "ND2",
+    "description": "2把"
+  },
+  {
+    "name": "好看的紙袋",
+    "zone": "ND2",
+    "description": "1個"
+  },
+  {
+    "name": "裁紙器",
+    "zone": "ND3",
+    "description": "1個"
+  },
+  {
+    "name": "無線滑鼠",
+    "zone": "ND3",
+    "description": "2顆"
+  },
+  {
+    "name": "有線滑鼠",
+    "zone": "ND3",
+    "description": "1顆"
+  },
+  {
+    "name": "iPad盒",
+    "zone": "ND3",
+    "description": "1個"
+  },
+  {
+    "name": "iPhone手機盒",
+    "zone": "ND3",
+    "description": "1個"
+  },
+  {
+    "name": "Apple Pencil Pro盒",
+    "zone": "ND3",
+    "description": "1個"
+  },
+  {
+    "name": "Pixel手機盒",
+    "zone": "ND3",
+    "description": "1個"
+  },
+  {
+    "name": "Pixel舊手機殼",
+    "zone": "ND3",
+    "description": "2個"
+  },
+  {
+    "name": "舊手機",
+    "zone": "ND3",
+    "description": "2個（Infocus + Pixel）"
+  },
+  {
+    "name": "廢紙",
+    "zone": "ND4",
+    "description": "1箱"
+  },
+  {
+    "name": "零錢",
+    "zone": "ND4",
+    "description": "1罐"
+  },
+  {
+    "name": "素描本",
+    "zone": "ND5",
+    "description": "1本"
+  },
+  {
+    "name": "書套",
+    "zone": "ND5",
+    "description": "1包（27.0加寬型）"
+  },
+  {
+    "name": "活頁資料夾補充頁",
+    "zone": "ND5",
+    "description": "一些"
+  },
+  {
+    "name": "資料夾（非活頁）",
+    "zone": "ND5",
+    "description": "2本"
+  },
+  {
+    "name": "資料夾（側邊）",
+    "zone": "ND5",
+    "description": "2本"
+  },
+  {
+    "name": "資料夾（上邊）",
+    "zone": "ND5",
+    "description": "1本"
+  },
+  {
+    "name": "L型資料夾",
+    "zone": "ND5",
+    "description": "1疊"
+  },
+  {
+    "name": "文具箱蓋子",
+    "zone": "ND5",
+    "description": "2個"
+  }
+]

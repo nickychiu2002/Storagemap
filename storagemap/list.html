@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>收納清單</title>
+  <link rel="stylesheet" href="/css/list.css">
+  <link rel="shortcut icon" href="/assest/favicon.ico" type="image/x-icon">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=add_circle,delete_forever,edit" />
+</head>
+<body>
+  <!-- 漢堡選單 -->
+  <div id="side-menu" class="side-menu">
+    <a href="#" class="close-btn" id="close-menu">&times;</a>
+    <a href="/index.html">首頁</a>
+    <a href="/zone.html">分區搜尋</a>
+    <a href="/keyword.html">關鍵字搜尋</a>
+  </div>
+  <span class="menu-toggle" id="menu-toggle">&#9776;</span>
+
+  <h1>收納清單</h1>
+
+  <!-- 新增物品按鈕 -->
+  <div class="add-item-container">
+    <button id="open-add-item" class="custom-btn"><img src="/assest/add.png" alt="" class="fn-icon"><p>新增物品</p></button>
+  </div>
+ 
+
+  <!-- 卡片容器 -->
+  <div id="item-container" class="item-container"></div>
+  <p id="empty-message" class="empty-message">空的？為什麼是空的？是不是你還沒整理？！</p>
+
+  <!-- 分頁控制 -->
+  <div id="pagination" class="pagination"></div>
+
+   <!-- 新增物品 Modal -->
+  <div id="add-item-modal" class="modal">
+    <div class="modal-content" id="add-item-modal-content">
+      <span class="close-btn" id="close-add-item">&times;</span>
+      <h3>新增物品</h3>
+      <input id="item-name" type="text" placeholder="物品名稱" />
+      <input id="item-zone" type="text" placeholder="儲存區域" />
+      <input id="item-desc" type="text" placeholder="備註" />
+      <button class="custom-btn" id="confirm-add-item">確認新增</button>
+    </div>
+  </div>
+
+  <!-- 更新物品浮動視窗 -->
+  <div id="edit-item-modal" class="modal">
+  <div class="modal-content"  id="edit-item-modal-content">
+    <span  class="close" id="close-edit-item">&times;</span>
+    <h3>編輯物品</h3>
+    <input id="edit-item-name" type="text" placeholder="物品名稱" />
+    <input id="edit-item-zone" type="text" placeholder="儲存區域" />
+    <input id="edit-item-desc" type="text" placeholder="備註" />
+    <button id="confirm-edit-item">儲存</button>
+  </div>
+</div>
+
+<!-- 資訊浮動視窗 -->
+<div id="info-modal" class="info-modal">
+  <div class="info-modal-overlay" id="info-modal-overlay"></div>
+  <div class="info-modal-content" id="info-modal-content">
+    <!-- <button id="info-close" class="info-close">&times;</button> -->
+    <div class="info-details">
+      <div class="info-namezone-container">
+        <div class="info-name" id="info-name"></div>
+        <div class="info-zone" id="info-zone"></div>
+      </div>
+      <hr class="under-info-name">
+      <div class="info-description" id="info-description"></div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/list.js"></script>
+</body>
+</html>

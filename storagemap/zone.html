@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>分區搜尋</title>
+    <link rel="stylesheet" href="/css/zone.css">
+  <link rel="shortcut icon" href="/assest/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+    <!-- 漢堡選單 -->
+    <div id="side-menu" class="side-menu">
+        <a href="#" class="close-btn" id="close-menu">&times;</a>
+        <a href="/index.html">首頁</a>
+        <a href="/keyword.html">關鍵字搜尋</a>
+        <a href="/list.html">收納清單</a>
+    </div>
+   <span class="menu-toggle" id="menu-toggle">&#9776;</span>
+
+    <h1>分區搜尋</h1> 
+
+    <main>
+        <div class="aside-container">
+            <aside>
+                <div id="zone-container" class="zone-container">
+                    <!-- M的區域 -->
+                    <div id="m-zone-container" class="m-zone-container">
+                        <div class="btn-container">
+                            <!-- <div class="bookcase"> -->
+                                <div class="zone-btn m-zone-btn" data-zone="A1"><p>A1</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="A2"><p>A2</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="A3"><p>A3</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="A4"><p>A4</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="A5"><p>A5</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="A6"><p>A6</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B1-1"><p>B1-1</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B1-2"><p>B1-2</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B2"><p>B2</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B3-1"><p>B3-1</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B3-2"><p>B3-2</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B3-3"><p>B3-3</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B4"><p>B4</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B5"><p>B5</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="B6"><p>B6</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="M1-1"><p>M1-1</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="M1-2"><p>M1-2</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="M2-1"><p>M2-1</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="M2-2"><p>M2-2</p></div>
+                            <!-- </div> -->
+                            <!-- <div class="drawer"> -->
+                                <div class="zone-btn m-zone-btn" data-zone="MD1"><p>MD1</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="MD2"><p>MD2</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="MD3"><p>MD3</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="MD4"><p>MD4</p></div>
+                                <div class="zone-btn m-zone-btn" data-zone="MD5"><p>MD5</p></div>
+                            <!-- </div> -->
+                        </div>
+                    </div>
+        <!-- <hr width="90%"> -->
+                    <!-- N的區域 -->
+                    <div id="n-zone-container" class="n-zone-container">
+                        <div class="btn-container">
+                            <!-- <div class="bookcase"> -->
+                                <div class="zone-btn n-zone-btn" data-zone="C1"><p>C1</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="C2-1"><p>C2-1</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="C2-2"><p>C2-2</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="C3"><p>C3</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="C4"><p>C4</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="C5"><p>C5</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="C6"><p>C6</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="D1"><p>D1</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="D2"><p>D2</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="D3"><p>D3</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="D4"><p>D4</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="D5"><p>D5</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="D6"><p>D6</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="N1"><p>N1</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="N2"><p>N2</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="N2-1"><p>N2-1</p></div>  
+                                <div class="zone-btn n-zone-btn" data-zone="N2-2"><p>N2-2</p></div>                      
+                            <!-- </div> -->
+                            <!-- <div class="drawer"> -->
+                                <div class="zone-btn n-zone-btn" data-zone="ND1"><p>ND1</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="ND2"><p>ND2</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="ND3"><p>ND3</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="ND4"><p>ND4</p></div>
+                                <div class="zone-btn n-zone-btn" data-zone="ND5"><p>ND5</p></div>
+                            <!-- </div> -->
+                        </div>
+                    </div>
+                </div>
+            </aside>
+            <div class="storage-content-container">
+                <div id="zone-display"><p>點要查看的收納區域，看看你都收了哪些東西～</p></div>
+            </div>
+        </div>
+    </main>
+
+    <!-- 物品詳細資訊浮動視窗 -->
+    <div id="item-modal" class="item-modal">
+        <div class="item-modal-content">
+            <span id="item-modal-close" class="item-modal-close">&times;</span>
+            <h2 id="modal-item-name">物品名稱</h2>
+            <hr>
+            <p id="modal-item-description">物品描述</p>
+        </div>
+    </div>
+
+
+    <script src="/js/zone.js"></script>
+</body>
+</html>

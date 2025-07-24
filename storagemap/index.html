@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>收納地圖</title>
+  <link rel="stylesheet" href="/css/index.css">
+  <link rel="shortcut icon" href="./assest/favicon.ico" type="image/x-icon">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+HK:wght@200..900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=add_circle" />
+</head>
+<body>
+  <h1>收納地圖</h1>
+  <div class="section-container">
+    <div id="zone-search" class="section">
+        <div class="fn-title"><img src="/assest/zone.png" alt="" class="fn-icon"><p>分區搜尋</p></div>
+        <!-- <hr> -->
+        <p class="fn-indro">查看特定區塊放了什麼</p>
+    </div>
+    <div id="keyword-search" class="section">
+        <div class="fn-title"><img src="/assest/search.png" alt="" class="fn-icon"><p>關鍵字搜尋</p></div>
+        <!-- <hr> -->
+        <p class="fn-indro">用關鍵字搜尋你的物品</p>
+    </div>
+    <div id="storage-list" class="section">
+        <div class="fn-title"><img src="/assest/list.png" alt="" class="fn-icon"><p>收納清單</p></div>
+        <!-- <hr> -->
+        <p class="fn-indro">查看完整的收納清單</p>
+    </div>
+    <div id="open-import-export" class="section">
+        <div class="fn-title"><img src="/assest/eximport.png" alt="" class="fn-icon"><p>匯入/匯出</p></div>
+        <!-- <hr> -->
+        <p class="fn-indro">匯出/匯入JOSN</p>
+    </div>
+  </div>
+
+  <div id="open-add-item" class="add-hot-key-container">
+    <span class="material-symbols-outlined">add_circle</span>
+    <!-- <img src="./assest/add-white.png" alt="" class="add-hot-key"> -->
+    <!-- <hr> -->
+    <!-- <p class="fn-indro">增加儲存物品</p> -->
+  </div>
+
+  <!-- 新增物品 Modal -->
+  <div id="add-item-modal" class="modal">
+    <div class="modal-content" id="add-item-modal-content">
+      <span class="close-btn" id="close-add-item">&times;</span>
+      <h3>新增物品</h3>
+      <input id="item-name" type="text" placeholder="物品名稱" />
+      <input id="item-zone" type="text" placeholder="儲存區域" />
+      <input id="item-desc" type="text" maxlength="95" placeholder="備註" />
+      <button class="custom-btn" id="confirm-add-item">確認新增</button>
+    </div>
+  </div>
+
+
+
+  <!-- 匯入匯出浮動視窗 -->
+<div id="import-export-modal" class="modal">
+  <div class="modal-content" id="import-export-modal-content">
+    <span class="close-btn" id="close-import-export">&times;</span>
+    <h2>匯入 / 匯出資料</h2>
+    
+    <!-- 匯出 JSON -->
+    <button id="export-json-btn" class="custom-btn">匯出 JSON</button>
+
+    <!-- 匯入 JSON -->
+    <!-- <input type="file" id="import-json-file" class="custom-btn" accept=".json" /> -->
+    <input id="import-json-file" class="custom-btn" type="file">
+    <label type="button" for="import-json-file" class="uploadStyle custom-btn" accept=".json">
+        選擇檔案
+    </label>
+  </div>
+</div>
+
+
+
+  <!-- 圖片展示 -->
+  <div class="image-gallery">
+    <img src="/assest/map1.png" alt="圖1" class="preview-image" />
+    <img src="/assest/map2.png" alt="圖2" class="preview-image" />
+  </div>
+
+  <!-- 全螢幕圖片 -->
+  <div class="fullscreen-view" id="fullscreen-view">
+    <span class="close-fullscreen" id="close-fullscreen">&times;</span>
+    <img id="fullscreen-img" src="" alt="全螢幕圖片" />
+  </div>
+  <script src="/js/index.js"></script>
+</body>
+</html>

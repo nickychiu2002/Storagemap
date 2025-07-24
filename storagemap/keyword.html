@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>關鍵字搜尋</title>
+  <link rel="stylesheet" href="/css/keyword.css" />
+  <link rel="shortcut icon" class="index-icon" style="width: 50%; height: auto;" href="/assest/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+  <!-- 漢堡選單 -->
+  <div id="side-menu" class="side-menu">
+    <a href="#" class="close-btn" id="close-menu">&times;</a>
+    <a href="/index.html">首頁</a>
+    <a href="/zone.html">分區搜尋</a>
+    <a href="/list.html">收納清單</a>
+  </div>
+  <span class="menu-toggle" id="menu-toggle">&#9776;</span>
+
+  <!-- 主內容 -->
+  <main>
+    <h1>關鍵字搜尋</h1>
+    <div class="search-bar-container">
+        <div class="search-bar">
+            <input style="outline: none;" type="text" id="keyword-input" placeholder="輸入關鍵字啊" />
+            <div class="search-btn-container">
+                <button id="search-btn">搜尋</button>
+            </div>
+            
+        </div>
+    </div>
+    
+
+    <!-- 結果顯示區 -->
+    <div id="results-area"><p class="results-area-original-text">查啊</p></div>
+  </main>
+
+  <script src="/js/keyword.js"></script>
+</body>
+</html>
